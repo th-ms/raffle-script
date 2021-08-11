@@ -1,0 +1,17 @@
+{
+  "name": "raffle-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "th-mas",
+  "license": "ISC",
+  "dependencies": {
+    "random-name": "^0.1.2",
+    "random-useragent": "^0.5.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
